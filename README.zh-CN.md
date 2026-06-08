@@ -87,3 +87,7 @@ Andrey
 - IES parser: *https://changyunhai.github.io/IESViewer360/build-parser/index.html*
 
 - IES simulator: *https://changyunhai.github.io/IESViewer360/build-simulator/index.html*
+
+## 彩蛋
+在我的weixin公众号记录了项目的前前后后，*https://mp.weixin.qq.com/s/7lEeliNidTE7Utg8z7EA9w* ， Enjoy reading 
+
